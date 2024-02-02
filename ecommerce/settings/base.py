@@ -478,6 +478,9 @@ PROSPECTUS_WORKER_USERNAME = 'prospectus_worker'
 # Worker used by Discovery to consume ecommerce endpoints
 DISCOVERY_WORKER_USERNAME = 'discovery_worker'
 
+# Worker used by Storefront to query ecommerce
+STOREFRONT_WORKER_USERNAME = 'storefrontworker'
+
 # Worker used by subscriptions to consume ecommerce endpoints
 
 SUBSCRIPTIONS_SERVICE_WORKER_USERNAME = 'subscriptions_worker'
